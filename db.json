@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "data":{
 		"confirmed": {
 			"amount": 169387,
@@ -12,5 +13,19 @@
 			"amount": 77257,
 			"data": "https://raw.githubusercontent.com/albertocoderei/datamirror/master/time_series_19-covid-Recovered.csv"
 		}
+=======
+	"update_required": false,
+	"confirmed": {
+		"amount": 169387,
+		"data": "https://raw.githubusercontent.com/albertocoderei/datamirror/master/time_series_19-covid-Confirmed.csv"
+	},
+	"deaths": {
+		"amount": 6513,
+		"data": "https://raw.githubusercontent.com/albertocoderei/datamirror/master/time_series_19-covid-Deaths.csv"
+	},
+	"recovered": {
+		"amount": 77257,
+		"data": "https://raw.githubusercontent.com/albertocoderei/datamirror/master/time_series_19-covid-Recovered.csv"
+>>>>>>> 167037bb69eca177cd7320920b3f43c86deaf7c0
 	}
 }
