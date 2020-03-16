@@ -1,0 +1,14 @@
+{
+	"confirmed": {
+		"amount": 169387,
+		"data": ""
+	},
+	"deaths": {
+		"amount": 6513,
+		"data": ""
+	},
+	"recovered": {
+		"amount": 77257,
+		"data": ""
+	}
+}
