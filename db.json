@@ -1,14 +1,14 @@
 {
 	"confirmed": {
 		"amount": 169387,
-		"data": ""
+		"data": "https://raw.githubusercontent.com/albertocoderei/datamirror/master/time_series_19-covid-Confirmed.csv"
 	},
 	"deaths": {
 		"amount": 6513,
-		"data": ""
+		"data": "https://raw.githubusercontent.com/albertocoderei/datamirror/master/time_series_19-covid-Deaths.csv"
 	},
 	"recovered": {
 		"amount": 77257,
-		"data": ""
+		"data": "https://raw.githubusercontent.com/albertocoderei/datamirror/master/time_series_19-covid-Recovered.csv"
 	}
 }
